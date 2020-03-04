@@ -1,0 +1,3 @@
+/home/qianchujie/Workspace/sandbox/imread/CMakeFiles/edit_cache.dir
+/home/qianchujie/Workspace/sandbox/imread/CMakeFiles/rebuild_cache.dir
+/home/qianchujie/Workspace/sandbox/imread/CMakeFiles/imread.dir
