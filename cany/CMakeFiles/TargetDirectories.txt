@@ -1,0 +1,3 @@
+/home/qianchujie/Workspace/machine-vision/qianchujie.github.io/cany/CMakeFiles/edit_cache.dir
+/home/qianchujie/Workspace/machine-vision/qianchujie.github.io/cany/CMakeFiles/rebuild_cache.dir
+/home/qianchujie/Workspace/machine-vision/qianchujie.github.io/cany/CMakeFiles/cany.dir
