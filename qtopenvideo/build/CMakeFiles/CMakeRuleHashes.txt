@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a7d06682e45e40b57a5a16015dab4a54 CMakeFiles/mainwindow_automoc

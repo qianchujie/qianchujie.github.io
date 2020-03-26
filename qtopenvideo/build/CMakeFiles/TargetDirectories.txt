@@ -1,0 +1,4 @@
+/home/qianchujie/Workspace/sandbox/qtopenvideo/build/CMakeFiles/edit_cache.dir
+/home/qianchujie/Workspace/sandbox/qtopenvideo/build/CMakeFiles/rebuild_cache.dir
+/home/qianchujie/Workspace/sandbox/qtopenvideo/build/CMakeFiles/mainwindow.dir
+/home/qianchujie/Workspace/sandbox/qtopenvideo/build/CMakeFiles/mainwindow_automoc.dir
